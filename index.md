@@ -9,8 +9,7 @@ Currently, fundus photo has been widely used in diagnosis of glaucoma and retina
 ## Challenges
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Glaucoma grAding from Multi-Modality imAges (GAMMA)
-Tasks  
+### Glaucoma grAding from Multi-Modality imAges (GAMMA)  
 > * 1 glaucoma grading using multi-modality data (OCT images and fundus color images)
 > * 2 macular fovea localization
 > * 3 optic disc and cup segmentation   
@@ -19,8 +18,7 @@ Entry of AISTUDIO-GAMMA (TBD)
 ------
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Retinal Fundus Glaucoma  Challenge  Edition2 (REFUGE2)
-Tasks  
+### Retinal Fundus Glaucoma  Challenge  Edition2 (REFUGE2)  
 > * 1 Classification of clinical Glaucoma
 > * 2 Segmentation of Optic Disc and Cup
 > * 3 Localization of Fovea (macular center)  
@@ -29,8 +27,7 @@ Entry of [MICCAI2020-REFUGE2](https://refuge.grand-challenge.org/Home2020/)
 
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Age-related Macular Degeneration (AMD)
-Tasks  
+### Age-related Macular Degeneration (AMD)  
 > * 1 Classification of AMD and non-AMD fundus images
 > * 2 Localization of disc and fovea
 > * 3 Detection & Segmentation of lesions (drusen, exudate, hemorrhage, scar, and others) from fundus images  
@@ -40,8 +37,7 @@ Entry of [ISBI2020-AMD](https://amd.grand-challenge.org/)
 
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Angle closure Glaucoma Evaluation (AGE)
-Tasks  
+### Angle closure Glaucoma Evaluation (AGE)  
 > * 1 Angle closure classification
 > * 2 Scleral spur localization        
 Entry of [MICCAI2019-AGE](https://age.grand-challenge.org/) <br/>
@@ -52,8 +48,7 @@ Entry of [MICCAI2019-AGE](https://age.grand-challenge.org/) <br/>
      
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Pathological Myopia (PM)
-Tasks  
+### Pathological Myopia (PM)  
 > * 1 Classification of normal and myopia fundus
 > * 2 Segmentation of typical lesions (retinal atrophy, hemorrhage, macular lesion) in pathologic myopia  
 Entry of [ISBI2019-PALM](https://palm.grand-challenge.org/)   <br/>
@@ -63,8 +58,7 @@ Entry of [ISBI2019-PALM](https://palm.grand-challenge.org/)   <br/>
 
 <img src = "https://www.zybuluo.com/static/img/logo.png" align = "left" width = "200">
 
-### Retinal Fundus Glaucoma  Challenge  Edition1 (REFUGE1)
-Tasks  
+### Retinal Fundus Glaucoma  Challenge  Edition1 (REFUGE1)  
 > * 1 Classification of clinical Glaucoma
 > * 2 Segmentation of Optic Disc and Cup  
 Entry of [MICCAI2018-REFUGE](https://refuge.grand-challenge.org/REFUGE2018/)  <br/>
