@@ -9,41 +9,41 @@ Currently, fundus photo has been widely used in diagnosis of glaucoma and retina
 ## Challenges
 
 ### Glaucoma grAding from Multi-Modality imAges (GAMMA)  
-> * 1 glaucoma grading using multi-modality data (OCT images and fundus color images)
-> * 2 macular fovea localization
-> * 3 optic disc and cup segmentation   
+1.  glaucoma grading using multi-modality data (OCT images and fundus color images)
+2.  macular fovea localization
+3.  optic disc and cup segmentation   
 Entry of [MICCAI2021-OMIA8-GAMMA](https://gamma.grand-challenge.org/Home/)  
 Entry of AISTUDIO-GAMMA (TBD)  
-------
+
 
 ### Retinal Fundus Glaucoma  Challenge  Edition2 (REFUGE2)  
-> * 1 Classification of clinical Glaucoma
-> * 2 Segmentation of Optic Disc and Cup
-> * 3 Localization of Fovea (macular center)  
+1. Classification of clinical Glaucoma
+2. Segmentation of Optic Disc and Cup
+3. Localization of Fovea (macular center)  
 Entry of [MICCAI2020-REFUGE2](https://refuge.grand-challenge.org/Home2020/)  
-------
+
 
 ### Age-related Macular Degeneration (AMD)  
-> * 1 Classification of AMD and non-AMD fundus images
-> * 2 Localization of disc and fovea
-> * 3 Detection & Segmentation of lesions (drusen, exudate, hemorrhage, scar, and others) from fundus images  
+1. Classification of AMD and non-AMD fundus images
+2. Localization of disc and fovea
+3. Detection & Segmentation of lesions (drusen, exudate, hemorrhage, scar, and others) from fundus images  
 Entry of [ISBI2020-AMD](https://amd.grand-challenge.org/)  
-------
+
 
 ### Angle closure Glaucoma Evaluation (AGE)  
-> * 1 Angle closure classification
-> * 2 Scleral spur localization   
+1. Angle closure classification
+2. Scleral spur localization   
 Entry of [MICCAI2019-AGE](https://age.grand-challenge.org/) 
-------
+
 
 ### Pathological Myopia (PM)  
-> * 1 Classification of normal and myopia fundus
-> * 2 Segmentation of typical lesions (retinal atrophy, hemorrhage, macular lesion) in pathologic myopia  
+1. Classification of normal and myopia fundus
+2. Segmentation of typical lesions (retinal atrophy, hemorrhage, macular lesion) in pathologic myopia  
 Entry of [ISBI2019-PALM](https://palm.grand-challenge.org/)   <br/>
-------
+
 
 ### Retinal Fundus Glaucoma  Challenge  Edition1 (REFUGE1)  
-> * 1 Classification of clinical Glaucoma
-> * 2 Segmentation of Optic Disc and Cup  
+1. Classification of clinical Glaucoma
+2. Segmentation of Optic Disc and Cup  
 Entry of [MICCAI2018-REFUGE](https://refuge.grand-challenge.org/REFUGE2018/)  <br/>
-------
+
